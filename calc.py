@@ -14,3 +14,9 @@ print(f"{num1} + {num2} = {result}")
 print(f"{num1} - {num2} = {result1}")
 
 print(f"{num1} * {num2} = {result2}")
+
+#lists
+languages = ["English", "Swahili", "Arabic", "French"]
+print(languages)
+# print by index of list
+print(languages[1])
