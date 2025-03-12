@@ -9,11 +9,11 @@ result1 = num1 - num2
 result2 = num1 * num2
 
 # Print the result
-print(f"{num1} + {num2} = {result}")
+print("{num1} + {num2} = {result}")
 
-print(f"{num1} - {num2} = {result1}")
+print("{num1} - {num2} = {result1}")
 
-print(f"{num1} * {num2} = {result2}")
+print("{num1} * {num2} = {result2}")
 
 #lists
 languages = ["English", "Swahili", "Arabic", "French"]
